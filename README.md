@@ -1,4 +1,4 @@
-# Dexterous grasping manipulability
+# Dexterous grasping 
 
 This repository contains matlab code used to compute manipulability of the kuka miiwa robot. If you use this cose please cite the work:
 
